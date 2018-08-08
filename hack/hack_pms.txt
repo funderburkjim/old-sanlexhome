@@ -1,0 +1,36 @@
+1:WIL:1832:Wilson, Horace Hayman,Wilson's dictionary in Sanscrit and English:/scans/WILScan/2014/web/index.php:Wilson Sanskrit-English Dictionary
+2:YAT:1846:William Yates,Yates's Dictionary in Sanscrit and English:/scans/YATScan/2014/web/index.php:Yates Sanskrit-English Dictionary
+3:GST:1856:Goldstücker, Theodor,>Goldstücker's Dictionary, Sanskrit and English:/scans/GSTScan/2014/web/index.php:Goldstücker Sanskrit-English Dictionary
+4:BEN:1866:Theodore Benfey,Benfey's Sanskrit-English Dictionary:/scans/BENScan/2014/web/index.php:Benfey Sanskrit-English Dictionary
+5:MW72:1872:Monier-Williams, Monier,Monier-Williams's Sanskrit-English Dictionary:/scans/MW72Scan/2014/web/index.php:Monier-Williams Sanskrit-English Dictionary
+6:AP90:1890:Vaman Shivram Apte,Apte's Practical Sanskrit-English Dictionary:/scans/AP90Scan/2014/web/index.php:Apte Practical Sanskrit-English Dictionary
+7:CAE:1891:Cappeller, Carl,Cappeller's Sanskrit-English Dictionary:/scans/CAEScan/2014/web/index.php:Cappeller Sanskrit-English Dictionary
+8:MD:1893:Macdonell, Arthur Anthony,Macdonell's Sanskrit-English dictionary:/scans/MDScan/2014/web/index.php:Macdonell Sanskrit-English Dictionary
+9:MW:1899:Monier-Williams, Monier,Ernst Leumann,Carl Cappeller,Monier-Williams' Sanskrit-English dictionary:/scans/MWScan/2014/web/index.php:Monier-Williams Sanskrit-English Dictionary
+10:SHS:1900:{B}awwAcAryya, {j}IvAnanda {v}idyAsAgara,None:/scans/SHSScan/2014/web/index.php:Shabda-Sagara Sanskrit-English Dictionary
+11:BHS:1953:Edgerton, Franklin,Edgerton, Franklin,Edgerton's Buddhist hybrid Sanskrit dictionary:/scans/BHSScan/2014/web/index.php:Edgerton Buddhist Hybrid Sanskrit Dictionary
+12:AP:1957:Vaman Shivaram Apte,Parshuram Krishna Gode,Cintamana Ganesa Karve,Revised and enlarged edition of Prin. V. S. Apte's The practical Sanskrit-English dictionary:/scans/APScan/2014/web/index.php:Practical Sanskrit-English Dictionary, revised edition
+13:PD:1976:Gatage, Amrit Madhav,Joshi, S. D.,Gandhe, V. S.,Ranade, H. G.,Bhatta, V. P.,Gatage et al.'s encyclopaedic dictionary of Sanskrit on historical principles:/scans/PDScan/2014/web/index.php:An Encyclopedic Dictionary of Sanskrit on Historical Principles
+14:MWE:1851:Monier-Williams, Monier,Monier-Williams's English-Sanskrit Dictionary:/scans/MWEScan/2013/web/index.php:Monier-Williams English-Sanskrit Dictionary
+15:BOR:1877:Anundoram Borooah,Borooah's English-Sanskrit Dictionary:/scans/BORScan/2014/web/index.php:Borooah English-Sanskrit Dictionary
+16:AE:1964:Vaman Shivram Apte,Apte's Student's English Sanskrit dictionary:/scans/AEScan/2014/web/index.php:Apte Student's English-Sanskrit Dictionary
+17:BUR:1866:Émile Burnouf,L. Leupol,Burnouf's dictionnaire classique Sanscrit-Francais:/scans/BURScan/2013/web/index.php:Burnouf Dictionnaire Sanscrit-Français
+18:STC:1932:Nadine Stchoupak,Luigia Nitti,Louis Renou,Stchoupak's Dictionnaire Sanskrit-Français:/scans/STCScan/2013/web/index_fr.php:Stchoupak Dictionnaire Sanscrit-Français
+19:PWG:1855:Böhtlingk, Otto von,Rudolph von Roth,Böhtlingk and Roth's Sanskrit Wörterbuch:/scans/PWGScan/2013/web/index.php:Böhtlingk and Roth Grosses Petersburger Wörterbuch
+20:GRA:1873:Grassmann, Hermann,Grassmann's Wörterbuch zum Rig-Veda:/scans/GRAScan/2014/web/index.php:Grassman Wörterbuch zum Rig Veda
+21:PW:1879:Otto Böhtlingk,Böhtlingk's Sanskrit-Wörterbuch in Kürzerer Fassung:/scans/PWScan/2014/web/index.php:Böhtlingk Sanskrit-Wörterbuch in kürzerer Fassung
+22:CCS:1887:Cappeller, Carl,Cappeller's Sanskrit-Wörterbuch:/scans/CCSScan/2014/web/index.php:Cappeller Sanskrit Wörterbuch
+23:SCH:1928:Richard Schmidt,Schmidt's Nachträge zum Sanskrit-Wörterbuch:/scans/SCHScan/2014/web/index.php:Schmidt Nachträge zum Sanskrit-Wörterbuch
+24:BOP:1847:Francisco Bopp,Bopp's Glossarium Sanscritum:/scans/BOPScan/2014/web/index.php:Bopp Glossarium Sanscritum
+25:SKD:1821:{r}ADAkAntadeva,{r}ADAkAntadeva,None:/scans/SKDScan/2013/web/index.php:None
+26:VCP:1873:{t}ArAnATa {t}arkavAcaspati {B}awwAcArya,None:/scans/VCPScan/2013/web/index.php:None
+27:ACC:1891,1896,1903:Theodor Aufrecht,Aufrecht's Catalogus Catalogorum:/scans/ACCScan/2014/web/index.php:Aufrecht's Catalogus Catalogorum
+28:INM:1904:Sørensen, Søren,Sørensen, Søren,Sørensen's Index to the Names in the :/scans/INMScan/2013/web/index.php:Sørensen's Index to the Names in the 
+29:VEI:1912:Arthur Anthony Macdonell,Arthur Berriedale Keith,Macdonell and Keith's Vedic Index of Names and Subjects:/scans/VEIScan/2014/web/index.php:Macdonell and Keith's Vedic Index of Names and Subjects
+30:PUI:1951,1952,1955:Dikshitar, V. R. Ramachandra,Dikshitar's :/scans/PUIScan/2014/web/index.php:Dikshitar's 
+31:KRM:1965:Ramasubba Sastri, S.,Ramasubba Sastri's :/scans/KRMScan/2014/web/index.php:Ramasubba Sastri's 
+32:IEG:1966:D. C. Sircar,Sircar's Indian Epigraphical Glossary:/scans/IEGScan/2014/web/index.php:Sircar's Indian Epigraphical Glossary
+33:SNP:1974:Gerrit Jan Meulenbeld,Rahul Peter Das,Meulenbeld's Sanskrit names of plants and their botanical equivalents:/scans/SNPScan/2014/web/index.php:Meulenbeld's Sanskrit Names of Plants
+34:PE:1975:Mani, Vettam,Vettam Mani's :/scans/PEScan/2014/web/index.php:Vettam Mani's 
+35:PGN:1978:Sharma, Tej Ram,Sharma's personal and geographical names in the Gupta inscriptions:/scans/PGNScan/2014/web/index.php:Sharma's personal and geographical names in the Gupta inscriptions
+36:MCI:1993:None,Mehendale's Mahabharata Cultural Index:/scans/MCIScan/2014/web/index.php:Mehendale's Mahabharata Cultural Index
