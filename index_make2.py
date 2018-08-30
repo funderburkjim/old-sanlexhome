@@ -124,7 +124,7 @@ def headerdiv():
  return lines
 
 def purpos1ediv():
- divused ="""
+ divunused ="""
  <div id="purpose1">
    <h2>Purpose</h2>
    <p>
@@ -145,9 +145,11 @@ def purpos1ediv():
 
  div ="""
  <div id="purpose1">
+<!-- Removed 08/08/2018
    <p>
     This web page provides access to many of the Sanskrit lexicons prepared
     by the Institute of Indology and Tamil Studies, Cologne University.
+
    <br/>
     The dictionaries are organized primarily by the secondary language
     (English, German, etc.), and then by date of publication.
@@ -155,7 +157,15 @@ def purpos1ediv():
     Each dictionary has several types of display, as well as a comprehensive
        selection of materials for download.
    </p>
-   
+-->
+   <p>
+     Welcome to the Sanskrit lexicons prepared since 1994 by the Institute of Indology and Tamil Studies, Cologne University.
+   <br/>
+  The 36 dictionaries are organized primarily by the secondary language (English, German, etc.), and then by date of publication (1832 till 1976).
+  <br/>
+  Each dictionary has several types of display (B L A M), as well as PDF scan and XML (in <a href="https://en.wikipedia.org/wiki/SLP1">SLP1</a>) files for download (D).
+  </p>
+
    <p>
      <a href='/scans/csldoc/index.html' target="_csldoc"><b>Documentation</b></a>
    &nbsp; &nbsp;
@@ -573,7 +583,7 @@ entstanden:
   <hr style="width:89%; margin-left:0px;"/>
   <div id="footer">
    Jim Funderburk maintains this web site.
-   <p>Last modified: June 12, 2018</p>
+   <p>Last modified: August 8, 2018</p>
   </div>
 
 <script type="text/javascript" src="/js/piwik_analytics.js"></script>
