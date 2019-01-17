@@ -36,7 +36,7 @@ def parseheader(s):
   # So, read the file as a string, remove namespace, then parse as string
   with codecs.open(headerfile,"r","utf-8") as f:
    xmlstring0 = f.read()
-  xmlns = 'xmlns="http://www.tei-c.org/ns/1.0"'
+  xmlns = 'xmlns="//www.tei-c.org/ns/1.0"'
   xmlstring = re.sub(xmlns,'',xmlstring0)
   with codecs.open("temp.xml","w","utf-8") as f:
    f.write(xmlstring)

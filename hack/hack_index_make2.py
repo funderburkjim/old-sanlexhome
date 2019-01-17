@@ -526,7 +526,7 @@ entstanden:
        <a href="mailto:th.malten@uni-koeln.de">Thomas Malten</a> (Cologne University) and <a href="/images/Aurorachana_Staff_2006(1).jpg">assistants</a> in India
       </li>
       <li>
-       <a href="http://www.sanskritlibrary.org">Peter Scharf</a> (Brown University)
+       <a href="//www.sanskritlibrary.org">Peter Scharf</a> (Brown University)
       </li>
       <li>
        Malcolm D. Hyman 
